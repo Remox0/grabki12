@@ -51,7 +51,7 @@ python main.py
 ## Porady 👍:
 -Najlepiej jak skompilujesz program do .exe jeżeli chcesz korzystac z programu bez pythona.
 
--Zanim skompilujesz do .exe wpisz w odpowiednie pola odpowidnie informacje takie jak mail odpbiorcy, adresat,hasło.
+-Zanim skompilujesz do .exe wpisz w odpowiednie pola odpowidnie informacje takie jak mail odbiorcy, adresat,hasło.
 
 -Jak skompilowac do exe? To bradzo proste! Poniżej znajdziesz poradnik:
 1. Uruchom terminal shell (windows)
@@ -77,3 +77,8 @@ Tylko pamiętaj o tym że nie możesz odzielić pliku .exe od folderu _internal!
 
 ## W celach edukacyjnych TYLKO 🤓
 Nie używaj na drugiej osobie bez jej pozwolenia!
+
+## Coś o mnie 📝:
+-Jestem nowym twórcą na GitHubie 
+-**Grabki** to mój pierwszy poważny jaki kolwiek program który zbiera infopramcje o użytkowniku
+-W razie jakich kolwiek niedopatrzeń z mojej strony w kodzie lub o jakieś propozycję prosze pisać
