@@ -68,6 +68,7 @@ pyinstaller main.py
 5. Powinneś uzyskać 2 nowe foldery i jedn plik
 6. Skopiuj w inne miejsce folder build a później mozesz usunąć reszcze plików.
 UPEWNIJ SIĘ ŻE WCZEŚNIEJ UZUPEŁNIŁĘŚ BRAKUJĄCE MIEJSCA W PLIK main.py!!!
+
 Teraz powinneś mieć w folderze build main i tak plik .exe
 Jeżeli go uruchomisz wszystko zadziała tak jak trzeba :)
 
