@@ -68,7 +68,7 @@ pip install pyinstaller
 ```
 cd ~\grabki12
 ```
-4.Wpisz polecene pyinstaller
+4. Wpisz polecene pyinstaller
 ```
 pyinstaller main.py
 ```
@@ -97,7 +97,5 @@ Program używaj tylko na sobie lub drugiej osobie za jej pozwoleniem 👀
 -**Grabki** to mój pierwszy poważny jaki kolwiek program który zbiera infopramcje o użytkowniku
 
 -W razie jakich kolwiek niedopatrzeń z mojej strony w kodzie lub o jakieś propozycję prosze pisać
-
--Jestem dyslektykiem więc za wszystkie błędy ortograficzne w języku polskim przepraszam
 
 -Robie to wszystko dla zabawy
