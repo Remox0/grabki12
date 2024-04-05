@@ -37,7 +37,7 @@ git clone https://github.com/Remox0/grabki12.git
 - getpass
 
 
-## Instalacja bibliotek i pierwsze uruchomienie 🚀:
+## Pierwsze uruchomienie 🚀:
 ```
 git clone https://github.com/Remox0/grabki12.git
 ```
