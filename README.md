@@ -14,7 +14,7 @@
 ## Sposób użycia ⚙️:
 1. Uruchom program "Grabki".
 2. Program automatycznie zbierze potrzebne informacje o użytkowniku i komputerze.
-3.Program wyśle te dane na wpisanego maila.
+3. Program wyśle te dane na wpisanego maila.
 
 ## Wymagania ✅:
 - Python 3.x
