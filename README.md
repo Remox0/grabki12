@@ -25,7 +25,7 @@ git clone https://github.com/Remox0/grabki12.git
 
 ## Wymagania ✅:
 - Python 3.x
-- Mail adresata najlepiej aby był na ![Gmail-u](https://www.google.com/intl/pl/gmail/about/)
+- Mail adresata najlepiej aby był na [Gmail-u](https://www.google.com/intl/pl/gmail/about/)
 
 ## Biblioteki 📕:
 
