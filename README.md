@@ -49,3 +49,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## W celach edukacyjnych TYLKO 🤓
+Nie używaj na drugiej osobie bez jej pozwolenia!
