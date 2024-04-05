@@ -59,8 +59,6 @@ python main.py
 
 -Jak skompilowac do exe? To bradzo proste! Poniżej znajdziesz poradnik:
 
--Pobierz git [(Kliknij tutaj)](https://git-scm.com/downloads)
-
 1. Uruchom terminal shell (windows)
 2. Pobierz pyinstaller (jeśli nie masz)
 ```
@@ -82,6 +80,11 @@ UPEWNIJ SIĘ ŻE WCZEŚNIEJ UZUPEŁNIŁĘŚ BRAKUJĄCE MIEJSCA W PLIK main.py!!!
 Teraz powinneś mieć w folderze build main i tam jest plik .exe
 Jeżeli go uruchomisz wszystko zadziała tak jak trzeba :)
 Tylko pamiętaj o tym że nie możesz odzielić pliku .exe od folderu _internal!!! Inaczej nie zadziała. 
+
+## GIT 😺:
+Jeśli nie posiadasz terminala Git pbierz go tutaj:
+
+[Pobierz](https://git-scm.com/downloads)
 
 ## W celach edukacyjnych TYLKO 🤓
 Program używaj tylko na sobie lub drugiej osobie za jej pozwoleniem 👀
