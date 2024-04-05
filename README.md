@@ -99,3 +99,5 @@ Program używaj tylko na sobie lub drugiej osobie za jej pozwoleniem 👀
 -W razie jakich kolwiek niedopatrzeń z mojej strony w kodzie lub o jakieś propozycję prosze pisać
 
 -Jestem dyslektykiem więc za wszystkie błędy ortograficzne w języku polskim przepraszam
+
+-Robie to wszystko dla zabawy
