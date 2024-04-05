@@ -1,6 +1,6 @@
 
 
-<img src="https://cdn.discordapp.com/attachments/843729542413025300/1225599032903204896/garden-1300347_1280.png?ex=6621b70b&is=660f420b&hm=9ef78e7867e2d57d8875a64fe944f4545d48a7b9e5f3ef856c7aaa17f382edad&" alt="Opis obrazu" width="800">
+<img src="https://cdn.discordapp.com/attachments/843729542413025300/1225599032903204896/garden-1300347_1280.png?ex=6621b70b&is=660f420b&hm=9ef78e7867e2d57d8875a64fe944f4545d48a7b9e5f3ef856c7aaa17f382edad&" alt="Grabki v1.2" width="800">
 <br>
 
 # Grabki v1.2 🇵🇱
@@ -84,7 +84,8 @@ Tylko pamiętaj o tym że nie możesz odzielić pliku .exe od folderu _internal!
 ## GIT 😺:
 Jeśli nie posiadasz terminala Git pbierz go tutaj:
 
-![](https://cdn.discordapp.com/attachments/843729542413025300/1225712162215825428/Git-Logo-2Color.png?ex=66222068&is=660fab68&hm=72b3021c16d8e6d59278a512e282fc9bc749204df7cbbba551839994dfbf5556&)
+<img src="https://cdn.discordapp.com/attachments/843729542413025300/1225712162215825428/Git-Logo-2Color.png?ex=66222068&is=660fab68&hm=72b3021c16d8e6d59278a512e282fc9bc749204df7cbbba551839994dfbf5556&" alt="Git" width="200">
+
 [Pobierz](https://git-scm.com/downloads)
 
 ## W celach edukacyjnych TYLKO 🤓
