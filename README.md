@@ -76,7 +76,7 @@ Jeżeli go uruchomisz wszystko zadziała tak jak trzeba :)
 Tylko pamiętaj o tym że nie możesz odzielić pliku .exe od folderu _internal!!! Inaczej nie zadziała. 
 
 ## W celach edukacyjnych TYLKO 🤓
-Nie używaj na drugiej osobie bez jej pozwolenia!
+Program używaj tylko na sobie lub drugiej osobie za jej pozwoleniem 👀
 
 ## Coś o mnie 📝:
 -Jestem nowym twórcą na GitHubie 
