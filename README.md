@@ -43,6 +43,9 @@ git clone https://github.com/Remox0/grabki12.git
 git clone https://github.com/Remox0/grabki12.git
 ```
 ```
+cd grabki12
+```
+```
 pip install -r requirements.txt
 ```
 ```
