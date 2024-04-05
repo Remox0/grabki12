@@ -82,7 +82,7 @@ Jeżeli go uruchomisz wszystko zadziała tak jak trzeba :)
 Tylko pamiętaj o tym że nie możesz odzielić pliku .exe od folderu _internal!!! Inaczej nie zadziała. 
 
 ## GIT 😺:
-Jeśli nie posiadasz terminala Git pbierz go tutaj:
+Jeśli nie posiadasz terminala Git pobierz go tutaj:
 
 <img src="https://cdn.discordapp.com/attachments/843729542413025300/1225712162215825428/Git-Logo-2Color.png?ex=66222068&is=660fab68&hm=72b3021c16d8e6d59278a512e282fc9bc749204df7cbbba551839994dfbf5556&" alt="Git" width="200">
 
