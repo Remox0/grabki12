@@ -5,7 +5,7 @@
 
 # Grabki v1.2 🇵🇱
 
-**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym.
+**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym. Po pobraniu zedytuj potrzeben dane w kodzie aby program poprawnie działał.
 
 ```
 git clone https://github.com/Remox0/grabki12.git
