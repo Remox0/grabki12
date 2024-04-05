@@ -13,7 +13,10 @@ git clone https://github.com/Remox0/grabki12.git
 
 ## Funkcje 🪛:
 - Pobiera informacje o nazwie użytkownika i systemie operacyjnym.
-- Wyświetla datę i czas uruchomienia i zebrania danych..
+- Wyświetla datę i czas uruchomienia i zebrania danych.
+- Wszystkie dane zapisuje w pliku .txt.
+- Wysyła plik .txt na podanego maila odbiorcy
+- Po zakończeniu działania automatycznie usuwa plik info.txt z informacjami. 
 
 ## Sposób użycia ⚙️:
 1. Uruchom program "Grabki".
@@ -22,6 +25,7 @@ git clone https://github.com/Remox0/grabki12.git
 
 ## Wymagania ✅:
 - Python 3.x
+- Mail adresata najlepiej aby był na ![Gmail-u](https://www.google.com/intl/pl/gmail/about/)
 
 ## Biblioteki 📕:
 
