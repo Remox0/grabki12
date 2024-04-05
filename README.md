@@ -5,7 +5,7 @@
 
 # Grabki v1.2 🇵🇱
 
-**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze i zapisuje je w pliku .txt a następnie wysyła podany plik .txt na podanego maila. Po wykonaniu operacji proghram automatyczne usunie plik info.txt z wszystkimi danymi. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym. Program jako tako nie wykrada jakiś bradzo wrażliwych danych tylko zwykłe dostępne dla każdego i zapisuje je w pliku .txt. Po pobraniu edytuj potrzebne dane w kodzie aby program poprawnie działał. W nie dalekiej przyszłości będę aktualizował program z większą ilością funkcji i możliwości ;)
+**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze i zapisuje je w pliku .txt a następnie wysyła podany plik .txt na podanego maila. Po wykonaniu operacji program automatyczne usunie plik info.txt z wszystkimi danymi. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym. Program jako tako nie wykrada jakiś bradzo wrażliwych danych tylko zwykłe dostępne dla każdego i zapisuje je w pliku .txt. Po pobraniu edytuj potrzebne dane w kodzie aby program poprawnie działał. W nie dalekiej przyszłości będę aktualizował program z większą ilością funkcji i możliwości ;)
 
 ```
 git clone https://github.com/Remox0/grabki12.git
@@ -85,3 +85,5 @@ Program używaj tylko na sobie lub drugiej osobie za jej pozwoleniem 👀
 -**Grabki** to mój pierwszy poważny jaki kolwiek program który zbiera infopramcje o użytkowniku
 
 -W razie jakich kolwiek niedopatrzeń z mojej strony w kodzie lub o jakieś propozycję prosze pisać
+
+-Jestem dyslektykiem więc za wszystkie błędy ortograficzne w języku polskim przepraszam
