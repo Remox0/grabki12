@@ -22,9 +22,8 @@ git clone https://github.com/Remox0/grabki12.git
 
 ## Wymagania ✅:
 - Python 3.x
-- Biblioteki
 
-## Wymagane biblioteki 📕:
+## Biblioteki 📕:
 
 - smtplib
 - datetime
@@ -44,9 +43,6 @@ git clone https://github.com/Remox0/grabki12.git
 ```
 ```
 cd grabki12
-```
-```
-pip install -r requirements.txt
 ```
 ```
 python main.py
