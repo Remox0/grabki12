@@ -14,7 +14,7 @@ tytul = "Grabki v1.2"
 tytul_pole = 'title {}'.format(tytul)
 os.system(tytul_pole)
 
-# Pobieranie prywatnego IP
+# IP
 def get_ip():
     hostname = socket.gethostname()
     ip_address = socket.gethostbyname(hostname)
