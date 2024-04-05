@@ -58,6 +58,9 @@ python main.py
 -Zanim skompilujesz do .exe wpisz w odpowiednie pola odpowidnie informacje takie jak mail odbiorcy, adresat,hasło.
 
 -Jak skompilowac do exe? To bradzo proste! Poniżej znajdziesz poradnik:
+
+-Pobierz git [(Kliknij tutaj)](https://git-scm.com/downloads)
+
 1. Uruchom terminal shell (windows)
 2. Pobierz pyinstaller (jeśli nie masz)
 ```
