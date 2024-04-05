@@ -80,5 +80,7 @@ Nie używaj na drugiej osobie bez jej pozwolenia!
 
 ## Coś o mnie 📝:
 -Jestem nowym twórcą na GitHubie 
+
 -**Grabki** to mój pierwszy poważny jaki kolwiek program który zbiera infopramcje o użytkowniku
+
 -W razie jakich kolwiek niedopatrzeń z mojej strony w kodzie lub o jakieś propozycję prosze pisać
